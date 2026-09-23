@@ -1,0 +1,9 @@
+error: unexpected argument '--minAssignedFrags' found
+
+Usage: salmon quant --output <OUTPUT> --index <INDEX> --libType <LIB_TYPE> --unmatedReads <UNMATED>... --threads <THREADS>
+
+For more information, try '--help'.
+
+note: salmon 2.0 is the Rust rewrite and changed or removed some command-line options.
+      See the migration guide (MIGRATION.md) for the C++ → 2.0 flag mapping, and note that
+      indices must be rebuilt for 2.0 (the index format changed).

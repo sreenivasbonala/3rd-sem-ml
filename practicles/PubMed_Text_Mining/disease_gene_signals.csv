@@ -1,0 +1,21 @@
+Disease,Gene,Co_occurrence
+cancer,EGFR,3
+cancer,TP53,3
+cancer,BRCA1,2
+cancer,IGF2BP2,2
+cancer,VEGFA,1
+cancer,MYC,1
+lung cancer,EGFR,1
+breast cancer,PIK3CA,1
+breast cancer,TP53,1
+cancer,PIK3CA,1
+colorectal cancer,EGFR,1
+colorectal cancer,IGF2BP2,1
+breast cancer,BRCA1,1
+colorectal cancer,METTL3,1
+cancer,METTL3,1
+prostate cancer,BRCA2,1
+prostate cancer,BRCA1,1
+prostate cancer,TP53,1
+cancer,BRCA2,1
+melanoma,BRAF,1

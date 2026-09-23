@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/rdkit_env/bin/mk_prepare_receptor.py", line 3, in <module>
+    from meeko.cli.mk_prepare_receptor import main
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/rdkit_env/lib/python3.14/site-packages/meeko/__init__.py", line 28, in <module>
+    from .receptor_pdbqt import PDBQTReceptor
+  File "/opt/homebrew/Caskroom/miniforge/base/envs/rdkit_env/lib/python3.14/site-packages/meeko/receptor_pdbqt.py", line 12, in <module>
+    from scipy import spatial
+ModuleNotFoundError: No module named 'scipy'

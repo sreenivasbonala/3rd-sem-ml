@@ -1,0 +1,14 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                                  accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                          ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+3480760at4751_1064592_0:00031d|TRINITY_DN326_c0_g1_i1:13-663|- -            217 3480760              -            211    1e-116  378.8   3.4   1   1  3.4e-118  1.1e-116  378.6   3.4     1   209     1   212     1   214 0.97 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/srinivas2003/busco_downloads/lineages/fungi_odb12/hmms/3480760at4751.hmm
+# Target file:     /Users/srinivas2003/Desktop/3rd sem ml/KrumlovTrinityWorkshopJan2017/data/trinity_full_out/busco_fungi_500bp/run_fungi_odb12/metaeuk_output/initial_results/Trinity_500bp.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /Users/srinivas2003/Desktop/3rd sem ml/KrumlovTrinityWorkshopJan2017/data/trinity_full_out/busco_fungi_500bp/run_fungi_odb12/hmmer_output/initial_run_results/3480760at4751.out --cpu 1 /Users/srinivas2003/busco_downloads/lineages/fungi_odb12/hmms/3480760at4751.hmm /Users/srinivas2003/Desktop/3rd sem ml/KrumlovTrinityWorkshopJan2017/data/trinity_full_out/busco_fungi_500bp/run_fungi_odb12/metaeuk_output/initial_results/Trinity_500bp.fasta.modified.fas 
+# Current dir:     /Users/srinivas2003/Desktop/3rd sem ml/KrumlovTrinityWorkshopJan2017/data/trinity_full_out
+# Date:            Sat Aug 29 12:38:17 2026
+# [ok]

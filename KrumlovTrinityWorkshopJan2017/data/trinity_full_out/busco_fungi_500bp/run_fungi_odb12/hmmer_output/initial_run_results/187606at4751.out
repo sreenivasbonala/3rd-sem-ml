@@ -1,0 +1,15 @@
+#                                                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                                  accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                          ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+3480760at4751_1064592_0:00031d|TRINITY_DN326_c0_g1_i1:13-663|- -            217 187606               -            174   1.3e-14   45.5   0.9   1   2     0.062         2   -0.8   0.0   131   161     3    33     1    37 0.72 -
+3480760at4751_1064592_0:00031d|TRINITY_DN326_c0_g1_i1:13-663|- -            217 187606               -            174   1.3e-14   45.5   0.9   2   2   8.2e-16   2.7e-14   44.4   0.1    46   165    85   209    61   216 0.91 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/srinivas2003/busco_downloads/lineages/fungi_odb12/hmms/187606at4751.hmm
+# Target file:     /Users/srinivas2003/Desktop/3rd sem ml/KrumlovTrinityWorkshopJan2017/data/trinity_full_out/busco_fungi_500bp/run_fungi_odb12/metaeuk_output/initial_results/Trinity_500bp.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /Users/srinivas2003/Desktop/3rd sem ml/KrumlovTrinityWorkshopJan2017/data/trinity_full_out/busco_fungi_500bp/run_fungi_odb12/hmmer_output/initial_run_results/187606at4751.out --cpu 1 /Users/srinivas2003/busco_downloads/lineages/fungi_odb12/hmms/187606at4751.hmm /Users/srinivas2003/Desktop/3rd sem ml/KrumlovTrinityWorkshopJan2017/data/trinity_full_out/busco_fungi_500bp/run_fungi_odb12/metaeuk_output/initial_results/Trinity_500bp.fasta.modified.fas 
+# Current dir:     /Users/srinivas2003/Desktop/3rd sem ml/KrumlovTrinityWorkshopJan2017/data/trinity_full_out
+# Date:            Sat Aug 29 12:38:15 2026
+# [ok]

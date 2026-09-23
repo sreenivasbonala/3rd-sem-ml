@@ -1,0 +1,26 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.pkl
+*.h5
+*.keras
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.sam
+*.sra
+*.log
+
+
+
+KrumlovTrinityWorkshopJan2017/data/trinity_full_out/busco_fungi_500bp/run_fungi_odb12/metaeuk_output/refseq_db_rerun.faa
+KrumlovTrinityWorkshopJan2017/data/trinity_full_out/busco_fungi_500bp/tmp/refseq_db.faa
+
+daily projects */

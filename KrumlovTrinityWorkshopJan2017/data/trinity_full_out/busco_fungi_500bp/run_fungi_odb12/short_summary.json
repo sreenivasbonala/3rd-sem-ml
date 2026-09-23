@@ -1,0 +1,71 @@
+{
+    "parameters": {
+        "out_path": "/Users/srinivas2003/Desktop/3rd sem ml/KrumlovTrinityWorkshopJan2017/data/trinity_full_out",
+        "cpu": "4",
+        "force": "False",
+        "restart": "False",
+        "quiet": "False",
+        "download_path": "/Users/srinivas2003/busco_downloads",
+        "datasets_version": "odb12",
+        "offline": "False",
+        "download_base_url": "https://busco-data.ezlab.org/v5/data/",
+        "auto-lineage": "False",
+        "auto-lineage-prok": "False",
+        "auto-lineage-euk": "False",
+        "use_augustus": "False",
+        "use_miniprot": "False",
+        "use_metaeuk": "False",
+        "skip_bbtools": "False",
+        "batch_mode": "False",
+        "tar": "False",
+        "opt-out-run-stats": "False",
+        "plot_percentages": "False",
+        "in": "/Users/srinivas2003/Desktop/3rd sem ml/KrumlovTrinityWorkshopJan2017/data/trinity_full_out/Trinity_500bp.fasta",
+        "out": "busco_fungi_500bp",
+        "mode": "euk_tran",
+        "lineage_dataset": "/Users/srinivas2003/busco_downloads/lineages/fungi_odb12",
+        "main_out": "/Users/srinivas2003/Desktop/3rd sem ml/KrumlovTrinityWorkshopJan2017/data/trinity_full_out/busco_fungi_500bp",
+        "lineage_results_dir": "run_fungi_odb12",
+        "domain": "eukaryota",
+        "ncbi_taxid": "4751",
+        "max_intron": "60000",
+        "max_seq_len": "100000",
+        "orthodb_version": "12.1",
+        "dataset_version": "02",
+        "metaeuk_parameters": "",
+        "metaeuk_rerun_parameters": ""
+    },
+    "lineage_dataset": {
+        "name": "fungi_odb12",
+        "creation_date": "2026-05-22",
+        "number_of_buscos": "1122",
+        "number_of_species": "144"
+    },
+    "versions": {
+        "python": [
+            3,
+            13,
+            15,
+            "final",
+            0
+        ],
+        "busco": "6.0.0",
+        "hmmsearch": 3.4,
+        "metaeuk": "7.bba0d80"
+    },
+    "results": {
+        "one_line_summary": "C:1.7%[S:1.6%,D:0.1%],F:0.2%,M:98.1%,n:1122",
+        "Complete percentage": 1.7,
+        "Complete BUSCOs": 19,
+        "Single copy percentage": 1.6,
+        "Single copy BUSCOs": 18,
+        "Multi copy percentage": 0.1,
+        "Multi copy BUSCOs": 1,
+        "Fragmented percentage": 0.2,
+        "Fragmented BUSCOs": 2,
+        "Missing percentage": 98.1,
+        "Missing BUSCOs": 1101,
+        "n_markers": 1122,
+        "domain": "eukaryota"
+    }
+}
