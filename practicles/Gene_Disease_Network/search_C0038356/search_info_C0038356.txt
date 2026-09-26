@@ -1,0 +1,27 @@
+SEARCH INFORMATION
+==================
+
+Download Date:       25/09/2026, 18:47:07
+
+SEARCH DETAILS
+--------------
+Search Terms:        Stomach Neoplasms (CUI: C0038356)
+Analysis Type:       DISEASES
+Data Type:           Summary
+Source:              CURATED
+Tab:                 GDA
+Total Results:       353
+
+CUSTOM SCORE CONFIGURATION
+--------------------------
+My Score Active:     No
+
+FILTERS APPLIED
+---------------
+
+
+DISPLAY SETTINGS
+----------------
+Visible Columns:     geneSymbol, geneDescription, numDiseasesAssociatedToGene, numVariantsAssociatedToGene, score, normalized_score, sourceScore, numPMIDsupportingAssociation, numCTs, numberChemsIncludedInEvidence, numberPmidsWithChemsIncludedInEvidence, numDBSNPsupportingAssociation, yearInitial, yearFinal, EI, geneDSI, geneDPI, genepLI
+
+==================

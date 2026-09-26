@@ -1,0 +1,11 @@
+Metric,Value
+Nodes,353.0
+Original directed edges,2856.0
+Training edges,2002.0
+Validation edges,284.0
+Test edges,570.0
+Node features,8.0
+Validation ROC-AUC,0.8951100972029359
+Validation Average Precision,0.8796075050098862
+Test ROC-AUC,0.8652385349338259
+Test Average Precision,0.8600472885197686
